@@ -1,0 +1,11 @@
+print('='*20)
+print(' A : 75')
+print(' B : 85')
+print(' C : 95')
+print(' D : 100')
+print('='*20)
+opcion=input('opcion : ')
+while(opcion!='A' and opcion!='B' and opcion!='C' and opcion!='D'):
+  print('Opcion invalida 😢')
+  opcion=input('Ingresa nuevamente una opcion : ')
+print('Bienvenido!')
