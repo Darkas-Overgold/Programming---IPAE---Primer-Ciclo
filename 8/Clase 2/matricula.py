@@ -1,5 +1,3 @@
-pip install bcrypt
-
 #ejercicio 2
 #implementar un sistema de matriculas por correo
 #1 o mas cursos
